@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-image: url("/images/flowers.png");
+  background-image: url("images/flowers.png");
   font-family: 'Lato', sans-serif;
   
 }
